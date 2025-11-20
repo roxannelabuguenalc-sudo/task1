@@ -1,0 +1,5 @@
+{
+  "name": "NeonTasker",
+  "description": "A sleek, dark-themed to-do list application with persistent storage and smooth animations.",
+  "requestFramePermissions": []
+}
